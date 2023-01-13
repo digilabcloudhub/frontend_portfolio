@@ -64,7 +64,7 @@ const Section = () => {
                   
                 
 
-                    <div class="col-3">
+                    <div class="col-3 offset-lg-1">
                       <div class="card">
                         <div class="card-body">
                           <h5 class="card-title">Notes App</h5>
@@ -111,7 +111,7 @@ const Section = () => {
               <div class="col-md-12 col-lg-12">
                   <h2 class="text-center">Contact</h2>
                   You can connect with me on linked in 
-                  <a href="https://www.linkedin.com/in/krishna-priya-bb348729/" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+                  <a href="https://www.linkedin.com/in/krishna-priya-b7a598260/" rel="noopener noreferrer" target="_blank">LinkedIn</a>
               </div>
           </div>
       
